@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AbsolutUnit or Aneek Barua
-- 👀 I’m interested in Computer Vision and Artificial Intelligence, specifically the realm of Deep Learning.
+- 👀 I’m interested in Computer Vision and Natural Language Processing.
 - 🌱 I’m currently attending SUNY Stony Brook University studying Computer Science and Pure Mathematics
 - 📫 You can reach me at anbarua@cs.stonybrook.edu
 
